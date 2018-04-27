@@ -106,7 +106,7 @@ Até o capítulo anterior também havia uma estrutura de classes semelhante a es
 
 ## Rotas no Angular
 
-Controlar a visibilidade de componentes é uma tarefa simples. Isso pode ser consideguido, por exemplo, utilizando as diretivas `ngIf` e `hidden`. Entretanto, a complexidade aumenta na proporção da quantidade de componentes ou da complexidade das interações com o usuário. Por isso o Angular implementa o conceito de rotas de uma maneira bastante útil.
+Controlar a visibilidade de componentes é uma tarefa simples. Isso pode ser conseguido, por exemplo, utilizando as diretivas `ngIf` e `hidden`. Entretanto, a complexidade aumenta na proporção da quantidade de componentes ou da complexidade das interações com o usuário. Por isso o Angular implementa o conceito de rotas de uma maneira bastante útil.
 
 Para usar rotas é possível definí-las das seguintes formas:
 
